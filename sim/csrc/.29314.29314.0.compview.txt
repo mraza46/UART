@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1718273365.617983974, "rt":4.75, "ut":4.23, "st":0.16}}
+{"vcselab":{"timestamp_begin":1718273370.415739770, "rt":0.39, "ut":0.16, "st":0.06}}
+{"link":{"timestamp_begin":1718273370.848141164, "rt":0.38, "ut":0.21, "st":0.09}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1718273365.284539931}
+{"VCS_COMP_START_TIME": 1718273365.284539931}
+{"VCS_COMP_END_TIME": 1718273371.277748065}
+{"VCS_USER_OPTIONS": "-full64 -sverilog +incdir+/remote/usrhome/otusbimp20/ALI/UVM/UART/verif -ntb_opts uvm-1.2 /remote/usrhome/otusbimp20/ALI/UVM/UART/verif/Interface.sv -y /remote/usrhome/otusbimp20/ALI/UVM/UART/rtl /remote/usrhome/otusbimp20/ALI/UVM/UART/rtl/des_uart.sv /remote/usrhome/otusbimp20/ALI/UVM/UART/verif/pkg.sv /remote/usrhome/otusbimp20/ALI/UVM/UART/verif/top.sv +libext+.sv -l log +ntb_random_seed_automatic"}
+{"vcs1": {"peak_mem": 399320}}
+{"vcselab": {"peak_mem": 225612}}
